@@ -1,0 +1,6 @@
+@MovieAppFSD.Server_HostAddress = http://localhost:5109
+
+GET {{MovieAppFSD.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

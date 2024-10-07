@@ -1,0 +1,14 @@
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\ProductMoqTask1\bin\Debug\net8.0\ProductMoqTask1.exe
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\ProductMoqTask1\bin\Debug\net8.0\ProductMoqTask1.deps.json
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\ProductMoqTask1\bin\Debug\net8.0\ProductMoqTask1.runtimeconfig.json
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\ProductMoqTask1\bin\Debug\net8.0\ProductMoqTask1.dll
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\ProductMoqTask1\bin\Debug\net8.0\ProductMoqTask1.pdb
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\ProductMoqTask1\obj\Debug\net8.0\ProductMoqTask1.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\ProductMoqTask1\obj\Debug\net8.0\ProductMoqTask1.AssemblyInfoInputs.cache
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\ProductMoqTask1\obj\Debug\net8.0\ProductMoqTask1.AssemblyInfo.cs
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\ProductMoqTask1\obj\Debug\net8.0\ProductMoqTask1.csproj.CoreCompileInputs.cache
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\ProductMoqTask1\obj\Debug\net8.0\ProductMoqTask1.dll
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\ProductMoqTask1\obj\Debug\net8.0\refint\ProductMoqTask1.dll
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\ProductMoqTask1\obj\Debug\net8.0\ProductMoqTask1.pdb
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\ProductMoqTask1\obj\Debug\net8.0\ProductMoqTask1.genruntimeconfig.cache
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\ProductMoqTask1\obj\Debug\net8.0\ref\ProductMoqTask1.dll

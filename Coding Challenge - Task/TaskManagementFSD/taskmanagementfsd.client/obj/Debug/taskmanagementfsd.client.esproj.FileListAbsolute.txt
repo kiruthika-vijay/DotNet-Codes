@@ -1,0 +1,1 @@
+D:\HEXA-SEGUE 201 - .NET FSD\Coding Challenge - Task\TaskManagementFSD\taskmanagementfsd.client\obj\Debug\taskmanagementfsd.client.esproj.CoreCompileInputs.cache

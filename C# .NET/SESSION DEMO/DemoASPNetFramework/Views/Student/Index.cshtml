@@ -1,0 +1,41 @@
+﻿@model IEnumerable<DemoASPNetFramework.Models.Student>
+
+@{
+    ViewBag.Title = "Index";
+    Layout = "~/Views/Shared/_Layout.cshtml";
+}
+
+<h2>Index</h2>
+@* DisplayNameFor ---- Display name of the attribute *@
+@* DisplayFor ---- Display name of the value *@
+<p>Student Model </p>
+<p>No of Students = @ViewBag.HeadCount</p>
+<table>
+    <tr>
+        <th>
+            @Html.DisplayNameFor(model => model.StudentName)
+        </th>
+        <th>
+            @Html.DisplayNameFor(model => model.Age)
+        </th>
+        <th> 
+            Actions
+        </th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>
+                @Html.DisplayFor(modelitem => item.StudentName)
+            </td>
+            <td>
+                @Html.DisplayFor(modelitem => item.Age)
+            </td>
+            <td>
+                @Html.ActionLink("Edit", "Edit", new {id = item.StudentId}) |
+                @Html.ActionLink("Delete", "Delete", new {id = item.StudentId})
+            </td>
+        </tr>
+    }
+</table>

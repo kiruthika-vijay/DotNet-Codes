@@ -1,0 +1,147 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\CoreMVCProjectTask\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AD50A6-6130-4C11-AC2E-04DA11FAD8B6}|CoreMVCProjectTask.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\coremvcprojecttask\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AD50A6-6130-4C11-AC2E-04DA11FAD8B6}|CoreMVCProjectTask.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AD50A6-6130-4C11-AC2E-04DA11FAD8B6}|CoreMVCProjectTask.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\coremvcprojecttask\\views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{E8AD50A6-6130-4C11-AC2E-04DA11FAD8B6}|CoreMVCProjectTask.csproj|solutionrelative:views\\departments\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AD50A6-6130-4C11-AC2E-04DA11FAD8B6}|CoreMVCProjectTask.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\coremvcprojecttask\\models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AD50A6-6130-4C11-AC2E-04DA11FAD8B6}|CoreMVCProjectTask.csproj|solutionrelative:models\\employee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AD50A6-6130-4C11-AC2E-04DA11FAD8B6}|CoreMVCProjectTask.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\coremvcprojecttask\\models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AD50A6-6130-4C11-AC2E-04DA11FAD8B6}|CoreMVCProjectTask.csproj|solutionrelative:models\\department.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AD50A6-6130-4C11-AC2E-04DA11FAD8B6}|CoreMVCProjectTask.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\coremvcprojecttask\\repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AD50A6-6130-4C11-AC2E-04DA11FAD8B6}|CoreMVCProjectTask.csproj|solutionrelative:repository\\employeerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AD50A6-6130-4C11-AC2E-04DA11FAD8B6}|CoreMVCProjectTask.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\coremvcprojecttask\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AD50A6-6130-4C11-AC2E-04DA11FAD8B6}|CoreMVCProjectTask.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E8AD50A6-6130-4C11-AC2E-04DA11FAD8B6}|CoreMVCProjectTask.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\coremvcprojecttask\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E8AD50A6-6130-4C11-AC2E-04DA11FAD8B6}|CoreMVCProjectTask.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\CoreMVCProjectTask\\Views\\Departments\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Departments\\Index.cshtml",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\CoreMVCProjectTask\\Views\\Departments\\Index.cshtml",
+              "RelativeToolTip": "Views\\Departments\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T16:50:05.452Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Employee.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\CoreMVCProjectTask\\Models\\Employee.cs",
+              "RelativeDocumentMoniker": "Models\\Employee.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\CoreMVCProjectTask\\Models\\Employee.cs",
+              "RelativeToolTip": "Models\\Employee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:34:34.725Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Department.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\CoreMVCProjectTask\\Models\\Department.cs",
+              "RelativeDocumentMoniker": "Models\\Department.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\CoreMVCProjectTask\\Models\\Department.cs",
+              "RelativeToolTip": "Models\\Department.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:34:29.379Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeeRepository.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\CoreMVCProjectTask\\Repository\\EmployeeRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\EmployeeRepository.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\CoreMVCProjectTask\\Repository\\EmployeeRepository.cs",
+              "RelativeToolTip": "Repository\\EmployeeRepository.cs",
+              "ViewState": "AQIAABUAAAAAAAAAAAAYwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:25:24.352Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\CoreMVCProjectTask\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\CoreMVCProjectTask\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAFkAAAAAAAAAAAAswAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:25:19.535Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\CoreMVCProjectTask\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\CoreMVCProjectTask\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:17:44.16Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\CoreMVCProjectTask\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\CoreMVCProjectTask\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAoAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T16:14:59.802Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

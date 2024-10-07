@@ -1,0 +1,70 @@
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\spa.proxy.json
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\appsettings.Development.json
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\appsettings.json
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\LoginFSD.Server.exe
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\LoginFSD.Server.deps.json
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\LoginFSD.Server.runtimeconfig.json
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\LoginFSD.Server.dll
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\LoginFSD.Server.pdb
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.csproj.AssemblyReference.cache
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\spa.proxy.json
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.AssemblyInfoInputs.cache
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.AssemblyInfo.cs
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.csproj.CoreCompileInputs.cache
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\staticwebassets.build.json
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\staticwebassets.development.json
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\staticwebassets\msbuild.LoginFSD.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.LoginFSD.Server.props
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LoginFSD.Server.props
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LoginFSD.Server.props
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\staticwebassets.pack.json
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\scopedcss\bundle\LoginFSD.Server.styles.css
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.B1F15210.Up2Date
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.dll
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\refint\LoginFSD.Server.dll
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.pdb
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.genruntimeconfig.cache
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\ref\LoginFSD.Server.dll
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\appsettings.Development.json
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\appsettings.json
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\spa.proxy.json
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\LoginFSD.Server.exe
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\LoginFSD.Server.deps.json
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\LoginFSD.Server.runtimeconfig.json
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\LoginFSD.Server.dll
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\LoginFSD.Server.pdb
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\Microsoft.AspNetCore.SpaProxy.dll
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\Microsoft.OpenApi.dll
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.csproj.AssemblyReference.cache
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\spa.proxy.json
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.AssemblyInfoInputs.cache
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.AssemblyInfo.cs
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.csproj.CoreCompileInputs.cache
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.MvcApplicationPartsAssemblyInfo.cs
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.MvcApplicationPartsAssemblyInfo.cache
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\staticwebassets.build.json
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\staticwebassets.development.json
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\staticwebassets\msbuild.LoginFSD.Server.Microsoft.AspNetCore.StaticWebAssets.props
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\staticwebassets\msbuild.build.LoginFSD.Server.props
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.LoginFSD.Server.props
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.LoginFSD.Server.props
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\staticwebassets.pack.json
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\scopedcss\bundle\LoginFSD.Server.styles.css
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.B1F15210.Up2Date
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.dll
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\refint\LoginFSD.Server.dll
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.pdb
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\LoginFSD.Server.genruntimeconfig.cache
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\LoginFSD.Server\obj\Debug\net8.0\ref\LoginFSD.Server.dll

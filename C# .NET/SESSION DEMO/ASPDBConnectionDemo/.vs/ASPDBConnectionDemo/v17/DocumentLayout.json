@@ -1,0 +1,333 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|d:\\hexa-sqgue 201 - .net fsd\\c# .net\\session demo\\aspdbconnectiondemo\\models\\fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:models\\fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\controllers\\feescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:controllers\\feescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:views\\teachers\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\views\\studentcourses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:views\\studentcourses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\views\\fees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:views\\fees\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:views\\courses\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:models\\studentcourse.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:views\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\controllers\\studentcoursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0733E924-90BC-4E4D-A37C-FA0350335598}|ASPDBConnectionDemo.csproj|solutionrelative:controllers\\studentcoursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Views\\Teachers\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Teachers\\Index.cshtml",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Views\\Teachers\\Index.cshtml",
+              "RelativeToolTip": "Views\\Teachers\\Index.cshtml",
+              "ViewState": "AQIAABMAAAAAAAAAAAAAADMAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T18:18:14.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAACEAAAAAAAAAAAAAADQAAABqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T18:13:17.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Views\\StudentCourses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\StudentCourses\\Index.cshtml",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Views\\StudentCourses\\Index.cshtml",
+              "RelativeToolTip": "Views\\StudentCourses\\Index.cshtml",
+              "ViewState": "AQIAABsAAAAAAAAAAAAAACMAAAANAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T18:10:57.766Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Views\\Fees\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fees\\Index.cshtml",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Views\\Fees\\Index.cshtml",
+              "RelativeToolTip": "Views\\Fees\\Index.cshtml",
+              "ViewState": "AQIAABIAAAAAAAAAAAAAACIAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T18:09:10.153Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Index.cshtml",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Index.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAAABwAAABtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T18:07:10.332Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Views\\Courses\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Create.cshtml",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Views\\Courses\\Create.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Create.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T18:07:03.401Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "StudentCourse.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Models\\StudentCourse.cs",
+              "RelativeDocumentMoniker": "Models\\StudentCourse.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Models\\StudentCourse.cs",
+              "RelativeToolTip": "Models\\StudentCourse.cs",
+              "ViewState": "AQIAAAsAAAAAAAAAAAAAwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:59:49.386Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fee.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Models\\Fee.cs",
+              "RelativeDocumentMoniker": "Models\\Fee.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Models\\Fee.cs",
+              "RelativeToolTip": "Models\\Fee.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAuwBAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:58:41.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAuwBEAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:58:28.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAzwBoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:57:48.896Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Web.config",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Views\\Web.config",
+              "RelativeDocumentMoniker": "Views\\Web.config",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Views\\Web.config",
+              "RelativeToolTip": "Views\\Web.config",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-08-29T17:50:15.926Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-29T17:49:28.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAACUAAAAAAAAAAAAQwC8AAAAkAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:28:21.947Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:26:25.092Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolContext.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "Models\\SchoolContext.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAWwAoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:25:47.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "StudentCoursesController.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Controllers\\StudentCoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentCoursesController.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Controllers\\StudentCoursesController.cs",
+              "RelativeToolTip": "Controllers\\StudentCoursesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:25:19.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "FeesController.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Controllers\\FeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeesController.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Controllers\\FeesController.cs",
+              "RelativeToolTip": "Controllers\\FeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:24:52.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:24:30.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPDBConnectionDemo\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAA5wBwAAABGAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:20:12.044Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

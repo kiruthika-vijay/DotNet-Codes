@@ -1,0 +1,348 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\models\\fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:models\\fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\views\\fees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:views\\fees\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\views\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:views\\courses\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:views\\students\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:views\\students\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\task solution\\aspcoretask1mvc\\views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{754BD541-78BF-4A2F-B479-07856E99A5F7}|ASPCoreTask1MVC.csproj|solutionrelative:views\\courses\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\Fees\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Fees\\Delete.cshtml",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\Fees\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Fees\\Delete.cshtml",
+              "ViewState": "AQIAAAoAAAAAAAAAAAAEwBsAAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T09:35:22.786Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\Courses\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Delete.cshtml",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\Courses\\Delete.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Delete.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABUAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T09:32:04.039Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAB8AAABzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T09:28:32.992Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewImports.cshtml",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Views\\_ViewImports.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T09:27:53.422Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Views\\_ViewStart.cshtml",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Views\\_ViewStart.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T09:27:50.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Models\\ErrorViewModel.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Models\\ErrorViewModel.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:27:45.255Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T09:27:27.28Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Privacy.cshtml",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Views\\Home\\Privacy.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T09:27:08.605Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Index.cshtml",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Views\\Home\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T09:26:47.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AQIAAAQAAAAAAAAAAAAAAAoAAAAdAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:50:09.474Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T05:49:12.588Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Fee.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Models\\Fee.cs",
+              "RelativeDocumentMoniker": "Models\\Fee.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Models\\Fee.cs",
+              "RelativeToolTip": "Models\\Fee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAASAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T17:43:26.419Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolContext.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "Models\\SchoolContext.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAAkwA0AAABiAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T17:41:14.468Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T17:03:42.344Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T16:16:27.654Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\Students\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Create.cshtml",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\Students\\Create.cshtml",
+              "RelativeToolTip": "Views\\Students\\Create.cshtml",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T11:48:40.16Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\Students\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Students\\Index.cshtml",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\Students\\Index.cshtml",
+              "RelativeToolTip": "Views\\Students\\Index.cshtml",
+              "ViewState": "AQIAACQAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T11:48:28.93Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAUAAAAAAAAAAAAAwBUAAABFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T11:37:58.614Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\Courses\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Courses\\Index.cshtml",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\TASK SOLUTION\\ASPCoreTask1MVC\\Views\\Courses\\Index.cshtml",
+              "RelativeToolTip": "Views\\Courses\\Index.cshtml",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAtAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-30T11:34:37.908Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

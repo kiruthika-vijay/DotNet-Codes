@@ -1,0 +1,2 @@
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\MovieAppFSD\movieappfsd.client\obj\Debug\movieappfsd.client.esproj.CoreCompileInputs.cache
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\MovieAppFSD\movieappfsd.client\obj\Debug\movieappfsd.client.esproj.CoreCompileInputs.cache

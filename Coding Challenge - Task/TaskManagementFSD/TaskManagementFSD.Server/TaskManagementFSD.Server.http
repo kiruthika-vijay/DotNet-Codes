@@ -1,0 +1,6 @@
+@TaskManagementFSD.Server_HostAddress = http://localhost:5151
+
+GET {{TaskManagementFSD.Server_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

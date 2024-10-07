@@ -1,0 +1,2 @@
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\LoginFSD\loginfsd.client\obj\Debug\loginfsd.client.esproj.CoreCompileInputs.cache
+D:\HEXA-SEGUE 201 - .NET FSD\FullStackVS\LoginFSD\loginfsd.client\obj\Debug\loginfsd.client.esproj.CoreCompileInputs.cache

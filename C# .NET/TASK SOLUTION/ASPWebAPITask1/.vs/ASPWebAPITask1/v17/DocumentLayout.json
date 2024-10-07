@@ -1,0 +1,198 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{172170C5-FFF3-4490-8FA3-9F0800FB228B}|ASPWebAPITask1.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\aspwebapitask1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{172170C5-FFF3-4490-8FA3-9F0800FB228B}|ASPWebAPITask1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172170C5-FFF3-4490-8FA3-9F0800FB228B}|ASPWebAPITask1.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\aspwebapitask1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172170C5-FFF3-4490-8FA3-9F0800FB228B}|ASPWebAPITask1.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172170C5-FFF3-4490-8FA3-9F0800FB228B}|ASPWebAPITask1.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\aspwebapitask1\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172170C5-FFF3-4490-8FA3-9F0800FB228B}|ASPWebAPITask1.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172170C5-FFF3-4490-8FA3-9F0800FB228B}|ASPWebAPITask1.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\aspwebapitask1\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172170C5-FFF3-4490-8FA3-9F0800FB228B}|ASPWebAPITask1.csproj|solutionrelative:controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172170C5-FFF3-4490-8FA3-9F0800FB228B}|ASPWebAPITask1.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\aspwebapitask1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172170C5-FFF3-4490-8FA3-9F0800FB228B}|ASPWebAPITask1.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172170C5-FFF3-4490-8FA3-9F0800FB228B}|ASPWebAPITask1.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\aspwebapitask1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172170C5-FFF3-4490-8FA3-9F0800FB228B}|ASPWebAPITask1.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172170C5-FFF3-4490-8FA3-9F0800FB228B}|ASPWebAPITask1.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\aspwebapitask1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172170C5-FFF3-4490-8FA3-9F0800FB228B}|ASPWebAPITask1.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Migrations\\20240905045423_AddNewUpdatedModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240905045423_AddNewUpdatedModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{172170C5-FFF3-4490-8FA3-9F0800FB228B}|ASPWebAPITask1.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\aspwebapitask1\\models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{172170C5-FFF3-4490-8FA3-9F0800FB228B}|ASPWebAPITask1.csproj|solutionrelative:models\\studentdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Migrations\\20240905044148_AddNewModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240905044148_AddNewModels.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-09-05T06:51:34.842Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:04:41.745Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeachersController.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "Controllers\\TeachersController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:04:01.908Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAAABYAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T05:03:15.839Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20240905045423_AddNewUpdatedModels.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Migrations\\20240905045423_AddNewUpdatedModels.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240905045423_AddNewUpdatedModels.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Migrations\\20240905045423_AddNewUpdatedModels.cs",
+              "RelativeToolTip": "Migrations\\20240905045423_AddNewUpdatedModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:54:23.631Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "20240905044148_AddNewModels.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Migrations\\20240905044148_AddNewModels.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240905044148_AddNewModels.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Migrations\\20240905044148_AddNewModels.cs",
+              "RelativeToolTip": "Migrations\\20240905044148_AddNewModels.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:41:48.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAIAAAAAAAAAAAAgwA4AAAAfAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:29:51.165Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABYAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:27:30.994Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAqAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-05T04:27:10.546Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "StudentDbContext.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Models\\StudentDbContext.cs",
+              "RelativeDocumentMoniker": "Models\\StudentDbContext.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPITask1\\Models\\StudentDbContext.cs",
+              "RelativeToolTip": "Models\\StudentDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAxAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T12:19:24.346Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

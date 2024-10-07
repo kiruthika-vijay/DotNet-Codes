@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPIDemo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2ACC69-8C9B-4FA4-8DED-A18807F38547}|ASPWebAPIDemo.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\aspwebapidemo\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2ACC69-8C9B-4FA4-8DED-A18807F38547}|ASPWebAPIDemo.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2ACC69-8C9B-4FA4-8DED-A18807F38547}|ASPWebAPIDemo.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\aspwebapidemo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2ACC69-8C9B-4FA4-8DED-A18807F38547}|ASPWebAPIDemo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2ACC69-8C9B-4FA4-8DED-A18807F38547}|ASPWebAPIDemo.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\aspwebapidemo\\aspwebapidemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}",
+      "RelativeMoniker": "D:0:0:{EB2ACC69-8C9B-4FA4-8DED-A18807F38547}|ASPWebAPIDemo.csproj|solutionrelative:aspwebapidemo.http||{5703B403-55E7-4C63-8C88-A8F52C7A45C5}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2ACC69-8C9B-4FA4-8DED-A18807F38547}|ASPWebAPIDemo.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\aspwebapidemo\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2ACC69-8C9B-4FA4-8DED-A18807F38547}|ASPWebAPIDemo.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EB2ACC69-8C9B-4FA4-8DED-A18807F38547}|ASPWebAPIDemo.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\aspwebapidemo\\controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EB2ACC69-8C9B-4FA4-8DED-A18807F38547}|ASPWebAPIDemo.csproj|solutionrelative:controllers\\employeescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPIDemo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPIDemo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAUwBwAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T09:07:47.581Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPIDemo\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPIDemo\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACEAAAAcAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:19:23.199Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPIDemo\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPIDemo\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAeAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:18:36.362Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ASPWebAPIDemo.http",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPIDemo\\ASPWebAPIDemo.http",
+              "RelativeDocumentMoniker": "ASPWebAPIDemo.http",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPIDemo\\ASPWebAPIDemo.http",
+              "RelativeToolTip": "ASPWebAPIDemo.http",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003502|",
+              "WhenOpened": "2024-09-04T05:08:59.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EmployeesController.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPIDemo\\Controllers\\EmployeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\EmployeesController.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPWebAPIDemo\\Controllers\\EmployeesController.cs",
+              "RelativeToolTip": "Controllers\\EmployeesController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABIAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-04T05:08:12.949Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

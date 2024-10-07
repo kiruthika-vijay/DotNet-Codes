@@ -1,0 +1,62 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\DemoASPNetFramework\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DF511D2E-8A2E-4D72-8E54-DF35EBDA3833}|DemoASPNetFramework.csproj|d:\\hexa-sqgue 201 - .net fsd\\c# .net\\session demo\\demoaspnetframework\\app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF511D2E-8A2E-4D72-8E54-DF35EBDA3833}|DemoASPNetFramework.csproj|solutionrelative:app_start\\routeconfig.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DF511D2E-8A2E-4D72-8E54-DF35EBDA3833}|DemoASPNetFramework.csproj|d:\\hexa-sqgue 201 - .net fsd\\c# .net\\session demo\\demoaspnetframework\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DF511D2E-8A2E-4D72-8E54-DF35EBDA3833}|DemoASPNetFramework.csproj|solutionrelative:models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\DemoASPNetFramework\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolContext.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\DemoASPNetFramework\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "Models\\SchoolContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T17:07:56.348Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RouteConfig.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\DemoASPNetFramework\\App_Start\\RouteConfig.cs",
+              "RelativeDocumentMoniker": "App_Start\\RouteConfig.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\DemoASPNetFramework\\App_Start\\RouteConfig.cs",
+              "RelativeToolTip": "App_Start\\RouteConfig.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAQwCUAAAAOAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-29T15:46:32.491Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

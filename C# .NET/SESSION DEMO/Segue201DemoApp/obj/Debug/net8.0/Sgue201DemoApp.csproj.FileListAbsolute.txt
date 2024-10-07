@@ -1,0 +1,14 @@
+D:\HEXA-SQGUE 201 - .NET FSD\C# .NET\SESSION DEMO\Sgue201DemoApp\bin\Debug\net8.0\Sgue201DemoApp.exe
+D:\HEXA-SQGUE 201 - .NET FSD\C# .NET\SESSION DEMO\Sgue201DemoApp\bin\Debug\net8.0\Sgue201DemoApp.deps.json
+D:\HEXA-SQGUE 201 - .NET FSD\C# .NET\SESSION DEMO\Sgue201DemoApp\bin\Debug\net8.0\Sgue201DemoApp.runtimeconfig.json
+D:\HEXA-SQGUE 201 - .NET FSD\C# .NET\SESSION DEMO\Sgue201DemoApp\bin\Debug\net8.0\Sgue201DemoApp.dll
+D:\HEXA-SQGUE 201 - .NET FSD\C# .NET\SESSION DEMO\Sgue201DemoApp\bin\Debug\net8.0\Sgue201DemoApp.pdb
+D:\HEXA-SQGUE 201 - .NET FSD\C# .NET\SESSION DEMO\Sgue201DemoApp\obj\Debug\net8.0\Sgue201DemoApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXA-SQGUE 201 - .NET FSD\C# .NET\SESSION DEMO\Sgue201DemoApp\obj\Debug\net8.0\Sgue201DemoApp.AssemblyInfoInputs.cache
+D:\HEXA-SQGUE 201 - .NET FSD\C# .NET\SESSION DEMO\Sgue201DemoApp\obj\Debug\net8.0\Sgue201DemoApp.AssemblyInfo.cs
+D:\HEXA-SQGUE 201 - .NET FSD\C# .NET\SESSION DEMO\Sgue201DemoApp\obj\Debug\net8.0\Sgue201DemoApp.csproj.CoreCompileInputs.cache
+D:\HEXA-SQGUE 201 - .NET FSD\C# .NET\SESSION DEMO\Sgue201DemoApp\obj\Debug\net8.0\Sgue201DemoApp.dll
+D:\HEXA-SQGUE 201 - .NET FSD\C# .NET\SESSION DEMO\Sgue201DemoApp\obj\Debug\net8.0\refint\Sgue201DemoApp.dll
+D:\HEXA-SQGUE 201 - .NET FSD\C# .NET\SESSION DEMO\Sgue201DemoApp\obj\Debug\net8.0\Sgue201DemoApp.pdb
+D:\HEXA-SQGUE 201 - .NET FSD\C# .NET\SESSION DEMO\Sgue201DemoApp\obj\Debug\net8.0\Sgue201DemoApp.genruntimeconfig.cache
+D:\HEXA-SQGUE 201 - .NET FSD\C# .NET\SESSION DEMO\Sgue201DemoApp\obj\Debug\net8.0\ref\Sgue201DemoApp.dll

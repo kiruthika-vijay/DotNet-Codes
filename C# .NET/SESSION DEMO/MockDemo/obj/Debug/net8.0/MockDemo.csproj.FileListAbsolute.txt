@@ -1,0 +1,14 @@
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\MockDemo\bin\Debug\net8.0\MockDemo.exe
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\MockDemo\bin\Debug\net8.0\MockDemo.deps.json
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\MockDemo\bin\Debug\net8.0\MockDemo.runtimeconfig.json
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\MockDemo\bin\Debug\net8.0\MockDemo.dll
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\MockDemo\bin\Debug\net8.0\MockDemo.pdb
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\MockDemo\obj\Debug\net8.0\MockDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\MockDemo\obj\Debug\net8.0\MockDemo.AssemblyInfoInputs.cache
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\MockDemo\obj\Debug\net8.0\MockDemo.AssemblyInfo.cs
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\MockDemo\obj\Debug\net8.0\MockDemo.csproj.CoreCompileInputs.cache
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\MockDemo\obj\Debug\net8.0\MockDemo.dll
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\MockDemo\obj\Debug\net8.0\refint\MockDemo.dll
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\MockDemo\obj\Debug\net8.0\MockDemo.pdb
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\MockDemo\obj\Debug\net8.0\MockDemo.genruntimeconfig.cache
+D:\HEXA-SEGUE 201 - .NET FSD\C# .NET\SESSION DEMO\MockDemo\obj\Debug\net8.0\ref\MockDemo.dll

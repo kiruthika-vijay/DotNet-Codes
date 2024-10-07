@@ -1,0 +1,38 @@
+{
+    maxWidth: '400px', margin: '50px auto', padding: '20px', border: '1px solid #ccc', borderRadius: '5px', boxShadow: '0 0 10px rgba(0,0,0,0.1)', backgroundColor: '#f9f9f9',
+}
+
+,
+form: {
+    display: 'flex', flexDirection: 'column',
+}
+
+,
+inputGroup: {
+    marginBottom: '15px',
+}
+
+,
+label: {
+    marginBottom: '5px', fontWeight: 'bold',
+}
+
+,
+input: {
+    width: '100%', padding: '8px', boxSizing: 'border-box',
+}
+
+,
+error: {
+    color: 'red', marginBottom: '15px',
+}
+
+,
+buttonContainer: {
+    textAlign: 'center',
+}
+
+,
+button: {
+    padding: '10px 20px', backgroundColor: '#4CAF50', color: '#fff', border: 'none', borderRadius: '3px', cursor: 'pointer',
+}

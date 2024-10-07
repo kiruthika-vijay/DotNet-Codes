@@ -1,0 +1,10 @@
+{
+"SpaProxyServer": {
+"ServerUrl": "https://localhost:5173",
+"RedirectUrl": "",
+"LaunchCommand": "npm run dev",
+"WorkingDirectory": "D:\\HEXA-SEGUE 201 - .NET FSD\\FullStackVS\\LoginFSD\\LoginFSD.Server\\..\\loginfsd.client",
+"MaxTimeoutInSeconds": "120",
+"KeepRunning": "false"
+}
+}

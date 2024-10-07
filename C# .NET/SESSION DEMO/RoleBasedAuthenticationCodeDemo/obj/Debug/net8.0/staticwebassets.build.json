@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "PF8r2XaBw2XHvaj2CJYB03PNWvzMa+AL5w8pJlShtj0=",
+  "Source": "RoleBasedAuthenticationCodeDemo",
+  "BasePath": "_content/RoleBasedAuthenticationCodeDemo",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}

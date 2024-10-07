@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Sgue201DemoApp/1.0.0": {
+        "runtime": {
+          "Sgue201DemoApp.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Sgue201DemoApp/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

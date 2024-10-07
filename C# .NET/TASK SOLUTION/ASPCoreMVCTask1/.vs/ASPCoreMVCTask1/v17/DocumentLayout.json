@@ -1,0 +1,249 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|d:\\hexa-sqgue 201 - .net fsd\\c# .net\\session demo\\aspcoremvctask1\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|d:\\hexa-sqgue 201 - .net fsd\\c# .net\\session demo\\aspcoremvctask1\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|d:\\hexa-sqgue 201 - .net fsd\\c# .net\\session demo\\aspcoremvctask1\\models\\fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|solutionrelative:models\\fee.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|d:\\hexa-sqgue 201 - .net fsd\\c# .net\\session demo\\aspcoremvctask1\\models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|solutionrelative:models\\course.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|d:\\hexa-sqgue 201 - .net fsd\\c# .net\\session demo\\aspcoremvctask1\\models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|solutionrelative:models\\teacher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|d:\\hexa-sqgue 201 - .net fsd\\c# .net\\session demo\\aspcoremvctask1\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|d:\\hexa-sqgue 201 - .net fsd\\c# .net\\session demo\\aspcoremvctask1\\models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|solutionrelative:models\\schoolcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|d:\\hexa-sqgue 201 - .net fsd\\c# .net\\session demo\\aspcoremvctask1\\controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|solutionrelative:controllers\\coursescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|d:\\hexa-sqgue 201 - .net fsd\\c# .net\\session demo\\aspcoremvctask1\\controllers\\feescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|solutionrelative:controllers\\feescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|d:\\hexa-sqgue 201 - .net fsd\\c# .net\\session demo\\aspcoremvctask1\\controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|solutionrelative:controllers\\studentscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|d:\\hexa-sqgue 201 - .net fsd\\c# .net\\session demo\\aspcoremvctask1\\controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|solutionrelative:controllers\\teacherscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|d:\\hexa-sqgue 201 - .net fsd\\c# .net\\session demo\\aspcoremvctask1\\migrations\\schoolcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D552C278-18F6-46CA-BEC6-88AD397803FF}|ASPCoreMVCTask1.csproj|solutionrelative:migrations\\schoolcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Migrations\\20240830095012_InitialDB1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20240830095012_InitialDB1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 13,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Fee.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Models\\Fee.cs",
+              "RelativeDocumentMoniker": "Models\\Fee.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Models\\Fee.cs",
+              "RelativeToolTip": "Models\\Fee.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAAsAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:28:38.972Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Course.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Models\\Course.cs",
+              "RelativeDocumentMoniker": "Models\\Course.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Models\\Course.cs",
+              "RelativeToolTip": "Models\\Course.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAA6AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:27:47.748Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Teacher.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Models\\Teacher.cs",
+              "RelativeDocumentMoniker": "Models\\Teacher.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Models\\Teacher.cs",
+              "RelativeToolTip": "Models\\Teacher.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAuAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:26:15.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAA4AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:25:58.353Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SchoolContext.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Models\\SchoolContext.cs",
+              "RelativeDocumentMoniker": "Models\\SchoolContext.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Models\\SchoolContext.cs",
+              "RelativeToolTip": "Models\\SchoolContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABoAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T10:23:56.35Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FeesController.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Controllers\\FeesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FeesController.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Controllers\\FeesController.cs",
+              "RelativeToolTip": "Controllers\\FeesController.cs",
+              "ViewState": "AQIAAI4AAAAAAAAAAADwv3YAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:55:13.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "CoursesController.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Controllers\\CoursesController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CoursesController.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Controllers\\CoursesController.cs",
+              "RelativeToolTip": "Controllers\\CoursesController.cs",
+              "ViewState": "AQIAAGoAAAAAAAAAAAAwwHgAAAAgAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:54:26.927Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "TeachersController.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Controllers\\TeachersController.cs",
+              "RelativeDocumentMoniker": "Controllers\\TeachersController.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Controllers\\TeachersController.cs",
+              "RelativeToolTip": "Controllers\\TeachersController.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAkwHEAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:53:47.533Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "StudentsController.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Controllers\\StudentsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentsController.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Controllers\\StudentsController.cs",
+              "RelativeToolTip": "Controllers\\StudentsController.cs",
+              "ViewState": "AQIAAIIAAAAAAAAAAADwv3EAAAAPAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:53:00.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SchoolContextModelSnapshot.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Migrations\\SchoolContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Migrations\\SchoolContextModelSnapshot.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Migrations\\SchoolContextModelSnapshot.cs",
+              "RelativeToolTip": "Migrations\\SchoolContextModelSnapshot.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:51:22.458Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20240830095012_InitialDB1.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Migrations\\20240830095012_InitialDB1.cs",
+              "RelativeDocumentMoniker": "Migrations\\20240830095012_InitialDB1.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Migrations\\20240830095012_InitialDB1.cs",
+              "RelativeToolTip": "Migrations\\20240830095012_InitialDB1.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:50:12.577Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAABMAAABWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-30T09:47:53.998Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\HEXA-SQGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ASPCoreMVCTask1\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-30T09:47:50.072Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

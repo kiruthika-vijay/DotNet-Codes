@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\Segue201DemoApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3984972-BFA4-41E7-ADF9-283E2947D36D}|..\\MoqDemo.Test\\MoqDemo.Test.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\moqdemo.test\\moqtest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5DD5D6-D228-4C87-9C8E-F40E0FED7ECC}|..\\ProductMoqTask1\\ProductMoqTask1.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\productmoqtask1\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6A5DD5D6-D228-4C87-9C8E-F40E0FED7ECC}|..\\ProductMoqTask1\\ProductMoqTask1.csproj|d:\\hexa-segue 201 - .net fsd\\c# .net\\session demo\\productmoqtask1\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ProductMoqTask1\\ProductService.cs",
+              "RelativeDocumentMoniker": "..\\ProductMoqTask1\\ProductService.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ProductMoqTask1\\ProductService.cs",
+              "RelativeToolTip": "..\\ProductMoqTask1\\ProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T10:58:25.485Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ProductMoqTask1\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "..\\ProductMoqTask1\\IProductRepository.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\ProductMoqTask1\\IProductRepository.cs",
+              "RelativeToolTip": "..\\ProductMoqTask1\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:07:07.537Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MoqTest.cs",
+              "DocumentMoniker": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\MoqDemo.Test\\MoqTest.cs",
+              "RelativeDocumentMoniker": "..\\MoqDemo.Test\\MoqTest.cs",
+              "ToolTip": "D:\\HEXA-SEGUE 201 - .NET FSD\\C# .NET\\SESSION DEMO\\MoqDemo.Test\\MoqTest.cs",
+              "RelativeToolTip": "..\\MoqDemo.Test\\MoqTest.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T09:59:22.523Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
